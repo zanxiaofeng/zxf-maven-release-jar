@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>zxf.example</groupId>
+  <artifactId>zxf-maven-release-jar</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221207010303</lastUpdated>
+  </versioning>
+</metadata>

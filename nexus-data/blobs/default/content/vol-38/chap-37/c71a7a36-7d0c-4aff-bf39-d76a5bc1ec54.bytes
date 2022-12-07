@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>zxf.example</groupId>
+  <artifactId>zxf-maven-release-jar</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221207.011522</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20221207011522</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20221207.011522-1</value>
+        <updated>20221207011522</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20221207.011522-1</value>
+        <updated>20221207011522</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
