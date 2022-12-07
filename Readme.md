@@ -15,10 +15,10 @@
 ## Step 1 - Development on current snapshot version
 ## Step 2 - Deploy current snapshot version(Many times)
 - mvn deploy -s ./settings.xml -Drepo.id=nexus-snapshots -Drepo.user=admin -Drepo.pass=123456
-## Step 3 - Prepare release info for current snapshot version and start next snapshot version
+## Step 3 - Release current snapshot version and start next snapshot version
 - mvn release:prepare
-## Step 4 - execute release by prepared release info
-- mvn release:perform -s ./settings.xml
+- mvn release:perform -s ./settings.xml -Drepo.id=nexus-releases -Drepo.user=admin -Drepo.pass=123456
+
 
 # Apache Maven Deploy Plugin 用法
 ## deploy:deploy - Deploy maven project(pom.xml, settings.xml)
