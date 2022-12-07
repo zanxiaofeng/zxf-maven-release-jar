@@ -836,3 +836,5 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 2022-12-07 10:20:00,012+0800 INFO  [quartz-10-thread-19]  *SYSTEM org.sonatype.nexus.quartz.internal.task.QuartzTaskInfo - Task 'Storage facet cleanup' [repository.storage-facet-cleanup] state change RUNNING -> WAITING (OK)
 2022-12-07 10:30:00,011+0800 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.quartz.internal.task.QuartzTaskInfo - Task 'Storage facet cleanup' [repository.storage-facet-cleanup] state change WAITING -> RUNNING
 2022-12-07 10:30:00,017+0800 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.quartz.internal.task.QuartzTaskInfo - Task 'Storage facet cleanup' [repository.storage-facet-cleanup] state change RUNNING -> WAITING (OK)
+2022-12-07 10:40:00,012+0800 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.quartz.internal.task.QuartzTaskInfo - Task 'Storage facet cleanup' [repository.storage-facet-cleanup] state change WAITING -> RUNNING
+2022-12-07 10:40:00,021+0800 INFO  [quartz-10-thread-20]  *SYSTEM org.sonatype.nexus.quartz.internal.task.QuartzTaskInfo - Task 'Storage facet cleanup' [repository.storage-facet-cleanup] state change RUNNING -> WAITING (OK)

@@ -6,7 +6,7 @@
 
     <groupId>zxf.example</groupId>
     <artifactId>zxf-maven-release-jar</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@github.com:zanxiaofeng/zxf-maven-release-jar.git</developerConnection>

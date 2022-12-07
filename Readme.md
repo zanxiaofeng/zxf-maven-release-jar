@@ -6,6 +6,7 @@
 - Change pom version to v1.0.0(commit)
 - mvn deploy -s ./settings.xml -Drepo.id=nexus-releases -Drepo.user=admin -Drepo.pass=123456
 - git tag v1.0.0
+- git push origin v1.0.0 / git push --tags
 ## Step 4 - Start next snapshot version
 - Change pom version to v1.0.1-SNAPSHOT(commit)
 
