@@ -623,4 +623,30 @@ java.awt.headless=true
 <dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
 <dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
 <dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
-<dependency_failed type='leaf_type' ctxk='com/carrotsearch/
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<dependency_failed type='leaf_type' ctxk='com/carrotsearch/hppc/ObjectObjectHashMap' witness='org/elasticsearch/common/collect/HppcMaps$1' stamp='4823.775'/>
+<writer thread='140062112225024'/>
+<dependency_failed type='leaf_type' ctxk='java/net/URISyntaxException' witness='de/schlichtherle/truezip/util/QuotedUriSyntaxException' stamp='4826.196'/>
+<writer thread='140059011446528'/>
+<dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/google/common/collect/ArrayListMultimap' witness='com/google/common/collect/Multimaps$CustomListMultimap' stamp='7531.686'/>
+<dependency_failed type='abstract_with_unique_concrete_subtype' ctxk='com/google/common/collect/AbstractListMultimap' x='com/google/common/collect/ArrayListMultimap' witness='com/google/common/collect/Mul

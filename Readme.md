@@ -10,14 +10,14 @@
 - Change pom version to v1.0.1-SNAPSHOT(commit)
 
 
-# Development flow by release plugin(start from v1.0.0-SNAPSHOT)
+# Development flow by release plugin(start from v1.0.1-SNAPSHOT)
 ## Step 1 - Development on current snapshot version
 ## Step 2 - Deploy current snapshot version(Many times)
-- mvn deploy
+- mvn deploy -s ./settings.xml -Drepo.id=nexus-snapshots -Drepo.user=admin -Drepo.pass=123456
 ## Step 3 - Prepare release info for current snapshot version and start next snapshot version
-
-## Step 4 - execute release
-
+- mvn release:prepare
+## Step 4 - execute release by prepared release info
+- mvn release:perform -s ./settings.xml
 
 # Apache Maven Deploy Plugin 用法
 ## deploy:deploy - Deploy maven project(pom.xml, settings.xml)
