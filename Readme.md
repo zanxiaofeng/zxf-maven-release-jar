@@ -20,12 +20,13 @@
 - mvn release:perform -s ./settings.xml -Drepo.id=nexus-releases -Drepo.user=admin -Drepo.pass=123456
 
 
+
 # Apache Maven Deploy Plugin 用法
-## deploy:deploy - Deploy maven project(pom.xml, settings.xml)
+## deploy:deploy - Deploy maven project(pom.xml, settings.xml), the repository was selected by pom version(SNAPSHOT or NOT)
 - pom.xml(distributionManagement<repository, snapshotRepository>) - Config repository Info(repositoryId, url)
 - settings.xml(Servers<Server>) - Config auth(repositoryId, username, password) info for repository
 - mvn deploy [-s <setting file>]
-## deploy:deploy-file - Deploy　file　by　command
+## deploy:deploy-file - Deploy　file　by command, need to specif repository by -DrepositoryId=
 - settings.xml(Servers<Server>) - Config auth(repositoryId, username, password) info for repository
 - mvn deploy:deploy-file [-s <setting file>] -Dfile=<file> -DrepositoryId=<repositoryId> -Durl=<url of repository> -DgroupId=<group> -DartifactId=<artifact> -Dversion=<version> -Dpackaging=jar
 - mvn deploy:deploy-file [-s <setting file>] -Dfile=<file> -DrepositoryId=<repositoryId> -Durl=<url of repository> -DpomFile=<pom file for get group, artifact, version and package info>
