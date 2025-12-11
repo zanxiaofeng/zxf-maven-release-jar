@@ -22,7 +22,7 @@
 
 
 # Apache Maven Deploy Plugin 用法
-## deploy:deploy - Deploy maven project(pom.xml, settings.xml), the repository was selected by pom version(SNAPSHOT or NOT)
+## deploy:deploy - Deploy maven project(pom.xml, settings.xml), the repository was selected by pom version(SNAPSHOT or NOT) of current project
 - pom.xml(distributionManagement<repository, snapshotRepository>) - Config repository Info(repositoryId, url)
 - settings.xml(Servers<Server>) - Config auth(repositoryId, username, password) info for repository
 - mvn deploy [-s <setting file>]
